@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "Cite the associated collaborative article and specify the software commit and subset used."
+title: "Stair wear and usage-profile modelling"
+type: software
+authors:
+  - family-names: Mei
+    given-names: Ruihao
+  - family-names: Xiang
+    given-names: Chenzhe
+  - family-names: Hu
+    given-names: Yizhe
+repository-code: "https://github.com/49dj/stair-wear-inference"
+version: 0.1.0
+preferred-citation:
+  type: conference-paper
+  title: "Research on Stair Age and Usage Patterns Based on Linear Regression and Maximum Likelihood Estimation"
+  authors:
+    - family-names: Mei
+      given-names: Ruihao
+    - family-names: Xiang
+      given-names: Chenzhe
+    - family-names: Hu
+      given-names: Yizhe
+  year: 2025
+  conference:
+    name: "2025 International Conference on Digital Analysis and Processing, Intelligent Computation (DAPIC)"
+  doi: "10.1109/DAPIC66097.2025.00161"
